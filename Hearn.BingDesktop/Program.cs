@@ -67,7 +67,6 @@ namespace Hearn.BingDesktop
                         jpgStream.Close();
                     }
 
-                    imageStream.Flush();
                     imageStream.Close();
                 }
 
